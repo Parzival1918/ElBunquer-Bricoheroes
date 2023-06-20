@@ -1,0 +1,1092 @@
+{
+"kind": "youtube#playlistItemListResponse",
+"etag": "j5CMMFCo05IbqhqHouU5EZ8mfqU",
+"prevPageToken": "EAEaBlBUOkNESQ",
+"items": [
+{
+"kind": "youtube#playlistItem",
+"etag": "zERiNzSZZhL5Dl2gYTlGSpfLUHE",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS43MTI1NDIwOTMwQjIxMzNG",
+"snippet": {
+"publishedAt": "2020-02-06T13:39:42Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com reparar el lavabo amb BricoHeroes (01x19)",
+"description": "Penúltim capítol de la temporada. Els BricoHeroes han de veure’s les cares amb un enemic molt poderós: els sanitaris. No, no ens referim a les urgències mèdiques. Les temudes aixetes que sempre perden, els maleïts sifons, i els vàters embussats… un malson per qualsevol humà, però una bona oportunitat perquè un bon BricoHeroe demostri de quina pasta està fet. \n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/NtPpi0UgkF0/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/NtPpi0UgkF0/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/NtPpi0UgkF0/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/NtPpi0UgkF0/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/NtPpi0UgkF0/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 50,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "NtPpi0UgkF0"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "T0YTOWMwnobkxUbeJFDpB-4TiC8",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS5DNzE1RjZEMUZCMjA0RDBB",
+"snippet": {
+"publishedAt": "2020-01-29T14:41:46Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com reparar la bici amb BricoHeroes (01x18)",
+"description": "“Aquest diumenge no puc venir en bici perquè tinc una roda punxada”. Ni aquest diumenge, ni cap altre; si fa mig any que tens la bici abandonada, amb un pam de pols. Prou excuses! Els BricoHeroes us ensenyen a posar a punt la vostra bicicleta. Estem parlant de la bicicleta de muntanya, evidentment. No agafeu la de carretera, que passen molts cotxes i ens feu patir. \n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/POTNALqAjRQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/POTNALqAjRQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/POTNALqAjRQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/POTNALqAjRQ/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/POTNALqAjRQ/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 51,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "POTNALqAjRQ"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "h8RN_wqzmD3nFmIbobivUtsk_ec",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS45NzUwQkI1M0UxNThBMkU0",
+"snippet": {
+"publishedAt": "2020-01-23T13:24:51Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com muntar un moble kit amb BricoHeroes (01x17)",
+"description": "Els BricoHeroes volien muntar un armari reciclant palets, però ja n’estem fins els nassos dels palets. Així doncs, han optat per muntar un moble kit. Capítol aparentment senzill i relaxat, ens costa molt d’imaginar que als nostres herois del bricolatge no sàpiguen muntar un moble kit, amb instruccions incloses. \n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/UFokER6K0rk/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/UFokER6K0rk/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/UFokER6K0rk/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/UFokER6K0rk/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/UFokER6K0rk/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 52,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "UFokER6K0rk"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "sC46c16IouIWiZNNyqPEZlLCgH4",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS4zRjM0MkVCRTg0MkYyQTM0",
+"snippet": {
+"publishedAt": "2020-01-15T17:45:51Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com crear una taula de llum amb BricoHeroes (01x16)",
+"description": "Capítol psicodèlic! Els BricoHeroes ens ensenyen a construir una taula de llum! És a dir, una taula petita, amb la base translúcida i llums leds a dins. La canalla ‘fliparà’ i, un cop els hi hagi passat l’ensurt inicial, no pararan de jugar-hi. Però després, si amb 8 anys us demanen per anar al Sonar Kids, no us estranyeu.\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/JuROKKb1MPA/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/JuROKKb1MPA/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/JuROKKb1MPA/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/JuROKKb1MPA/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/JuROKKb1MPA/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 53,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "JuROKKb1MPA"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "CxB-_1r4Wiv-4BUJLBiPsxKKk2A",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS5GM0Q3M0MzMzY5NTJFNTdE",
+"snippet": {
+"publishedAt": "2020-01-09T13:07:05Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com descobrir els millors trucus amb BricoHeroes (01x15)",
+"description": "Un capítol ple de ‘life hacks’ per fer-vos la vida molt més fàcil i agradable. El que volem dir, és que us portem uns quants consells de merda, la majoria de sentit comú, que en un primer moment sembla que et canviaran la vida, però que al cap de dos dies ja no te’n recordes de cap. \n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/VKqrC6r0WQ8/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/VKqrC6r0WQ8/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/VKqrC6r0WQ8/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/VKqrC6r0WQ8/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/VKqrC6r0WQ8/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 54,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "VKqrC6r0WQ8"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "IRHzWgrEXcuF-goyVPWkAkOKWFE",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS4yMDhBMkNBNjRDMjQxQTg1",
+"snippet": {
+"publishedAt": "2019-12-18T12:44:18Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com fer instruments per Nadal amb BricoHeroes (01x14)",
+"description": "Segon especial de Nadal, on cantarem nadales a la vora del foc. Per fer-ho, utilitzarem una pandereta i una simbomba, fetes per nosaltres mateixos. Ni el senyor Antonio Stradivari hauria aconseguit una sonoritat com la dels nostres instruments!\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/h3SNrZ7NYj0/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/h3SNrZ7NYj0/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/h3SNrZ7NYj0/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/h3SNrZ7NYj0/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/h3SNrZ7NYj0/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 55,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "h3SNrZ7NYj0"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "8I5-RSeVDvsmGDhD41LWi-Nt6z4",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS5ENDU4Q0M4RDExNzM1Mjcy",
+"snippet": {
+"publishedAt": "2019-12-16T00:45:22Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "La Marató: Seus telefòniques amb BricoHeroes",
+"description": "Els BricoHeroes han volgut aportar el seu granet de sorra a La Marató de TV3 i han transformat el taller en una seu telefònica que funciona amb aire comprimit, què podia sortir malament?\n\n#BricoHeroesTV3 #LaMaratóTV3\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/0rX_zDqsqMw/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/0rX_zDqsqMw/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/0rX_zDqsqMw/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/0rX_zDqsqMw/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/0rX_zDqsqMw/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 56,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "0rX_zDqsqMw"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "MGIG9Tms7fQaAhf6LS67FUn4FmE",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS45RTgxNDRBMzUwRjQ0MDhC",
+"snippet": {
+"publishedAt": "2019-12-11T15:21:43Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com decorar per Nadal amb BricoHeroes (01x13)",
+"description": "Ja s’acosta Nadal, i els BricoHeroes us porten unes quantes idees per decorar la vostra llar. Si us plau, cremeu d’una vegada la figura del Pare Noel que puja grimpant pel balcó, feu aquest favor a la humanitat. Nosaltres us proposem fer un tió i un centre de taula en forma d'arbre de Nadal.\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/l1OE-XOErgA/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/l1OE-XOErgA/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/l1OE-XOErgA/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/l1OE-XOErgA/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/l1OE-XOErgA/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 57,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "l1OE-XOErgA"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "3_9xW8LsG1xph3pdjIswGr0d_80",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS4yMUQyQTQzMjRDNzMyQTMy",
+"snippet": {
+"publishedAt": "2019-12-05T09:40:48Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com restaurar gronxadors i fer un sorral amb BricoHeroes (01x12)",
+"description": "Els gronxadors ja no grinyolen, ja no sents els riures de la canalla. Els parcs estan buits, no hi ha ningú; quina imatge tan terrible. Ara la canalla està tot el dia tancada a casa, enganxats al mòbil. Els BricoHeroes us ensenyen a construir un sorral i a restaurar uns gronxadors perquè els pelats els genolls i els castells de sorra no es perdin com llàgrimes en la pluja.\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/F1kk01hURBA/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/F1kk01hURBA/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/F1kk01hURBA/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/F1kk01hURBA/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/F1kk01hURBA/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 58,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "F1kk01hURBA"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "iUJbsTbFP-gGYpZt2s__bwWo9VE",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS5EQUE1NTFDRjcwMDg0NEMz",
+"snippet": {
+"publishedAt": "2019-11-25T16:01:48Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com camperitzar una furgo amb BricoHeroes (01x11)",
+"description": "Per trencar amb els esquemes, deixar-ho tot enrere i ser una autèntica ànima rebel, primer has de tenir una furgoneta camperitzada, al contrari, no seràs mai ningú. Els BricoHeroes t’ensenyen a camperitzar la furgo i a viure la vida al màxim. És veritat que ha plogut molt des dels anys 70, potser arribeu un pèl tard, però no defalliu. ‘Peace and Love’.\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/-fW4_BXxhvw/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/-fW4_BXxhvw/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/-fW4_BXxhvw/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/-fW4_BXxhvw/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/-fW4_BXxhvw/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 59,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "-fW4_BXxhvw"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "TTB3OY_hfAWFI-oL0tNGnT_P3YA",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS41QTY1Q0UxMTVCODczNThE",
+"snippet": {
+"publishedAt": "2019-11-29T13:29:28Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Millors moments dels 10 capítols de BricoHeroes",
+"description": "Ja portem 10 capítols de BricoHeroes. Us deixem un resum amb els millors moments! No us preocupeu, que encara queden 10 capítols més!\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/CNJtkryvpm0/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/CNJtkryvpm0/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/CNJtkryvpm0/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/CNJtkryvpm0/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/CNJtkryvpm0/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 60,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "CNJtkryvpm0"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "mIyiGTTWIn9SGVsboO7gjmn68_w",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS41Mzk2QTAxMTkzNDk4MDhF",
+"snippet": {
+"publishedAt": "2019-11-21T09:06:26Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com instal·lar una pèrgola amb BricoHeroes (01x10)",
+"description": "Atenció!, capítol de gran dificultat! Muntar una pèrgola pel jardí no és cosa fácil; és la creació amb més envergadura que hem fet fins ara. És veritat que ja portem 10 capítols i els BricoHeroes haurien de ser capaços de fer-ho, però hem de tenir en compte que aquí entra en joc el nostre amic formigó.\n\n#BricoHeroesTV3  \n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/RKc7bYO4BwQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/RKc7bYO4BwQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/RKc7bYO4BwQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/RKc7bYO4BwQ/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/RKc7bYO4BwQ/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 61,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "RKc7bYO4BwQ"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "tgT6lXG-pVxtrCth81GWhS_vphU",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS4zMDg5MkQ5MEVDMEM1NTg2",
+"snippet": {
+"publishedAt": "2019-11-13T13:09:27Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com construir una caixa niu amb BricoHeroes (01x09)",
+"description": "Deixeu de provar de tapar els cirerers amb aquelles maleïdes reixes verdes, els ocells entraran igual i s’acabaran fotent les cireres. És millor que els hi construïu un niu amb fusta perquè el jardí tingui una mica més de vida. ‘We love animals!’\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/D1kEzHjdx_U/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/D1kEzHjdx_U/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/D1kEzHjdx_U/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/D1kEzHjdx_U/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/D1kEzHjdx_U/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 62,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "D1kEzHjdx_U"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "tnSUJAGO3PL-RoIY5TvzbOMKyXc",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS45ODRDNTg0QjA4NkFBNkQy",
+"snippet": {
+"publishedAt": "2019-11-07T12:56:01Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com instal·lar un commutador amb BricoHeroes (01x08)",
+"description": "Toquem un dels grans misteris de l’univers: els interruptors commutats. Un capítol perillós, d’alt voltatge; entra en joc per primer cop la nostra amiga electricitat, capaç de carregar la bateria del teu mòbil o de deixar-te fregit si fots els dits allà on no toca. Que tremoli Tesla Motors, que arriben els BricoHeroes.\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/uDpkEt6G5B8/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/uDpkEt6G5B8/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/uDpkEt6G5B8/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/uDpkEt6G5B8/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/uDpkEt6G5B8/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 63,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "uDpkEt6G5B8"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "jAf1c1tdjf8IXKzmReEIYzH5FFY",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS5EMEEwRUY5M0RDRTU3NDJC",
+"snippet": {
+"publishedAt": "2019-11-03T16:33:31Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com economitzar l'espai a la cuina amb BricoHeroes (01x07)",
+"description": "Capítol imprescindible pels amants de l’ordre. Els BricoHeroes reordenen la cuina i n’aprofiten tot l’espai. Vosaltres encara no ho sabeu, però, a una cuina, per petita que sigui, us hi cap un elefant! La Mari Kondo no ens arriba ni a la sola de la sabata. També parlem sobre estalvi energètic; prepareu-vos per sortir a la portada de la revista Forbes, perquè amb els consells que us donarem, us fareu d’or.\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/6rpcqYoF9OM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/6rpcqYoF9OM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/6rpcqYoF9OM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/6rpcqYoF9OM/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/6rpcqYoF9OM/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 64,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "6rpcqYoF9OM"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "_qx7IxHzDsvoEXF6HgYnukRqhp8",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS40NzZCMERDMjVEN0RFRThB",
+"snippet": {
+"publishedAt": "2019-10-27T09:08:02Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Capítol extra: Especial exhumacions amb BricoHeroes",
+"description": "Els del FAQS han parlat sobre l'exhumació de Franco i ens han demanat ajuda. Volen l'opinió d'uns experts. Quatre cops de martell i això els BricoHeroes ho solucionen ràpidament. Ni helicòpter ni tanta parafernàlia!\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/7FceWwAHRqw/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/7FceWwAHRqw/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/7FceWwAHRqw/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/7FceWwAHRqw/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/7FceWwAHRqw/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 65,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "7FceWwAHRqw"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "tVe6vOo4VUSnJn_XyGhS6UYEC3Y",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS5GNjNDRDREMDQxOThCMDQ2",
+"snippet": {
+"publishedAt": "2019-10-24T13:57:22Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com fer un \"butelleru\" amb BricoHeroes (01x06)",
+"description": "Si a les 5 de la tarda d’un dimarts ja portes el teu quart gintònic, sempre quedaràs més bé si ho fas amb estil. Els BricoHeroes us ensenyen a construir un ampoller per poder guardar el vi amb glamur i fer veure que sou uns autèntics enòlegs. Ho farem amb palets de fusta, que ens agrada molt reciclar-los i, a més a més, desmuntar-los és un moment.\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/9z-UrbipaEg/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/9z-UrbipaEg/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/9z-UrbipaEg/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/9z-UrbipaEg/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/9z-UrbipaEg/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 66,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "9z-UrbipaEg"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "NHVEUEcn9Ws9pehHoVFl2uD6UmE",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS45NDk1REZENzhEMzU5MDQz",
+"snippet": {
+"publishedAt": "2019-10-17T15:37:03Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com canviar l'oli del cotxe amb BricoHeroes (01x05)",
+"description": "En aquest capítol ataquem el poderós lobby dels tallers mecànics. Per fer el canvi d’oli del cotxe realment necessites un màster en física quàntica?, o la clavada que ens foten és totalment injustificada? Vestiu-vos amb roba vella i prepareu-vos per fotre un bon merder, perquè els BricoHeroes us ensenyen a canviar l’oli del cotxe. Si penseu que les taques de l’oli de l’amanida costen de treure, ja veureu amb l’oli del motor! Pensant-ho millor… aneu demanant hora al vostre taller i oblideu-vos del tema. \n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/xF5VQkYMUiU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/xF5VQkYMUiU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/xF5VQkYMUiU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/xF5VQkYMUiU/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/xF5VQkYMUiU/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 67,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "xF5VQkYMUiU"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "ijQ1quyGupDNokNO_rR0xyZcKv8",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS5DQUNERDQ2NkIzRUQxNTY1",
+"snippet": {
+"publishedAt": "2019-10-07T13:20:25Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com construir un hort urbà amb BricoHeroes (01x04)",
+"description": "Com que, ara sí, l’apocalipsi està més a prop que mai, els nostres BricoHeroes us ensenyen a fer un hort urbà amb palets de fusta, per poder sobreviure a qualsevol catàstrofe nuclear. Capítol ideal per a totes aquelles persones que es pensen que les verdures es cultiven als supermercats. Embruteu-vos una mica les mans, que no us anirà pas malament, tant ‘smart tv’ i tanta ximpleria!\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/wbwcvV6XKzk/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/wbwcvV6XKzk/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/wbwcvV6XKzk/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/wbwcvV6XKzk/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/wbwcvV6XKzk/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 68,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "wbwcvV6XKzk"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "WW0hZp_AGGC_WTTQs9Kxt7ueMEM",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS41MzJCQjBCNDIyRkJDN0VD",
+"snippet": {
+"publishedAt": "2019-10-03T16:15:35Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com canviar la corretja d'una persiana amb BricoHeroes (01x03)",
+"description": "Us heu fixat mai en la tapa de la part de dalt de les finestres?, allà on va parar la persiana quan està enrotllada. Quins misteris guarda aquella tapa? És només un niu de pols i merda?, o també hi trobarem el testament perdut de l’avi Florenci? Els nostres BricoHeroes obriran la Capsa de Pandora de la merda, segurament el punt més brut d’una casa, per tal de canviar la corretja de la persiana.\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/4vQC4SafD0g/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/4vQC4SafD0g/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/4vQC4SafD0g/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/4vQC4SafD0g/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/4vQC4SafD0g/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 69,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "4vQC4SafD0g"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "scWhPSGpMWOK8Rj48bud14qpxaA",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS4xMkVGQjNCMUM1N0RFNEUx",
+"snippet": {
+"publishedAt": "2019-09-27T10:48:00Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com construir un gimnàs infantil amb BricoHeroes (01x02)",
+"description": "En Jair i en Peyu volen lluitar contra la diabòlica indústria dels joguets, que és pitjor que la indústria farmacèutica i la indústria militar juntes. En aquest capítol us ensenyarem a construir un gimnàs infantil, una cosa que val quatre duros però que a la botiga us clavarien 80 euros. No us espanteu, un gym infantil és un mòbil de tota la vida, és a dir, un pal amb quatre joguets penjats, però ara se li ha de dir gym infantil, que queda més hipster.\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/3nf_TtfkeCY/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/3nf_TtfkeCY/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/3nf_TtfkeCY/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/3nf_TtfkeCY/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/3nf_TtfkeCY/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 70,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "3nf_TtfkeCY"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "98CUD57fC65F4J7s1mDqPO34MIA",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS4wOTA3OTZBNzVEMTUzOTMy",
+"snippet": {
+"publishedAt": "2019-09-20T14:18:45Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "Com penjar un quadre amb BricoHeroes (01x01)",
+"description": "En Jair i en Peyu ens ensenyen com penjar un quadre a la paret. Sí, el primer capítol de BricoHeroes no sembla un repte gaire apassionant, però no voldreu pas que comencem ensenyant-vos a construir un coet nuclear, oi? A poc a poc i bona lletra és el lema dels nostres dos BricoHeroes, que penjar un quadre també té 'lo seu'.\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/zqAJ4jH6KuU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/zqAJ4jH6KuU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/zqAJ4jH6KuU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/zqAJ4jH6KuU/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/zqAJ4jH6KuU/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 71,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "zqAJ4jH6KuU"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "byANfgjb8hWx4_s8SO5HrzC6Wts",
+"id": "UExIRjQzN1N6Mk1Ib1ItM1lOdGRDWDdvcFNvOTN3cWxHcS41NkI0NEY2RDEwNTU3Q0M2",
+"snippet": {
+"publishedAt": "2019-09-13T14:34:26Z",
+"channelId": "UCSfMEzJX9i4-3Xl6KFv3DAA",
+"title": "La roda de premsa de BricoHeroes, la més surrealista que has vist mai",
+"description": "En Peyu i en Jair Domínguez han presentat el seu nou programa en una ubicació molt bucòlica, però cap mitjà de comunicació s'ha dignat a assistir-hi. Per sort, l'enginy és una de les característiques imprescindibles d'un bon BricoHero. Estrena, el 22 de setembre.\n\n#BricoHeroesTV3\n\nInstagram oficial de BricoHeroes: https://www.instagram.com/bricoheroestv3/\n\nSubscriu-te al canal oficial de TV3 a YouTube: https://bit.ly/2WFU15Y\n\nCatalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\nFacebook: https://ca-es.facebook.com/tv3\nTwitter:  https://twitter.com/tv3cat\nInstagram: https://www.instagram.com/tv3cat\nWeb: https://www.ccma.cat/tv3/",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/Ith-vZ6fTbI/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/Ith-vZ6fTbI/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/Ith-vZ6fTbI/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/Ith-vZ6fTbI/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/Ith-vZ6fTbI/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "TV3",
+"playlistId": "PLHF437Sz2MHoR-3YNtdCX7opSo93wqlGq",
+"position": 72,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "Ith-vZ6fTbI"
+},
+"videoOwnerChannelTitle": "TV3",
+"videoOwnerChannelId": "UCSfMEzJX9i4-3Xl6KFv3DAA"
+}
+}
+],
+"pageInfo": {
+"totalResults": 73,
+"resultsPerPage": 50
+}
+}
