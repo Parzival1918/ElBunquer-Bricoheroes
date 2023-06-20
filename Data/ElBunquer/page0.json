@@ -1,0 +1,2361 @@
+{
+"kind": "youtube#playlistItemListResponse",
+"etag": "1CMgAIXAEil02HKlFqQnQgo8OQw",
+"nextPageToken": "EAAaBlBUOkNESQ",
+"items": [
+{
+"kind": "youtube#playlistItem",
+"etag": "JNmFSaLCzx3Ta4zmThDSgg-xkgE",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy42NTU3MUQxMEE0NTMxREEy",
+"snippet": {
+"publishedAt": "2023-06-20T06:40:14Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "BUNQUER: Emissió dimarts 20 de juny",
+"description": "#BúnquerCatRàdio\n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/lgvI0cDTgtU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/lgvI0cDTgtU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/lgvI0cDTgtU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/lgvI0cDTgtU/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/lgvI0cDTgtU/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 0,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "lgvI0cDTgtU"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "N14zlMlZIv0X8C9Re9xd4dUx3Zw",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy43RUQ0OENDRUFGNjEwNTlD",
+"snippet": {
+"publishedAt": "2023-06-19T07:48:12Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Juan Crisóstomo de Arriaga (3x169)",
+"description": "Potser no és la biografia més intrèpida de la temporada, de fet és la més insulsa que hem fet mai, però hem pensat que no tot ha de ser sang, assassinats, accidents, embolics de faldilles i grans fets històrics. De tant en tant, ja va bé que us portem una història com la d'en Juan Arriaga, que us servirà per desintoxicar-vos una mica. El nano resulta que era un autèntic geni de la música, a part de ser molt treballador. En Juan va anar a estudiar a París i no va trepitjar cap bordell ni va tastar cap gota d'alcohol. Estudiar, estudiar i estudiar, era l'únic que feia, i ja veureu com va acabar!\n\n#BúnquerCatRàdio\n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/8_cv0xSsHDA/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/8_cv0xSsHDA/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/8_cv0xSsHDA/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/8_cv0xSsHDA/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/8_cv0xSsHDA/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 1,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "8_cv0xSsHDA"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "x7VWsTJHZfqro1Wj9tRuzkqtfAQ",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy4wQTUyMDI4MTNCQkM2RkZF",
+"snippet": {
+"publishedAt": "2023-06-15T06:05:38Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Jeffrey Dahmer (3x168)",
+"description": "Des d’“El búnquer” ens esforcem a tenir biografies variades i que no es converteixi en un “Crims”, però la història d’en Jeffrey Dahmer era obligada fer-la. No tant pels seus assassinats, sinó per la seva patètica existència i, sobretot, per la inoperància de les forces de seguretat, que en una ocasió fins i tot el van ajudar a cometre un assassinat. Ah, per cert, no us preocupeu per les descripcions i els detalls macabres, n’hem tingut de molt pitjors; en Jeffrey era un aficionat comparat amb l’Ed Kemper o l’Ed Gein. \n\n#BúnquerCatRàdio\n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/CQxR1J9DCTU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/CQxR1J9DCTU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/CQxR1J9DCTU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/CQxR1J9DCTU/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/CQxR1J9DCTU/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 2,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "CQxR1J9DCTU"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "EYaHSL062d0rWqjdpf8AnO_XZxk",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy45NzlEQTJENUEyOUE3REFG",
+"snippet": {
+"publishedAt": "2023-06-14T06:38:18Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Salvador Puig Antich (3x167)",
+"description": "Hòstia santa, com patirem! Abans de començar-lo a gravar, ja estem suant! Aquest capítol no és com la resta, el d’avui ens toca de prop. Que els petits de la casa parin bé les orelles perquè és important conèixer el cas d’en Salvador Puig, de com va viure i de com va morir. Compte amb el cameo de la pàgina final, entenem que ja sabeu de qui es tracta.\n\n#BúnquerCatRàdio\n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/U7mJl3EEdJA/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/U7mJl3EEdJA/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/U7mJl3EEdJA/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/U7mJl3EEdJA/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/U7mJl3EEdJA/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 3,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "U7mJl3EEdJA"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "mR26nUebkYm7SyDKfZWsgXWPsfY",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy41M0I1MTE3REEwNkZEMDIw",
+"snippet": {
+"publishedAt": "2023-06-13T14:26:37Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Mary Ann Bevan (3x166)",
+"description": "Avui us portem una història tristota, però que té un final prou digne tenint en compte com hauria pogut acabar. La Mary Ann Bevan era una mossa normal i corrent: arriada com ella sola, amb un futur ple de possibilitats. La noia va acabar els estudis d’infermeria i va trobar feina en un prestigiós hospital de Londres. Tot anava com una seda, fins que se li va manifestar una horrible malaltia que li va capgirar la vida.\n\n#BúnquerCatRàdio\n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/KoXHZlONn8w/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/KoXHZlONn8w/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/KoXHZlONn8w/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/KoXHZlONn8w/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/KoXHZlONn8w/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 4,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "KoXHZlONn8w"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "bmc1zb2K7Kk2_1vsXBJKi9Fc02s",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy4zREU5RTk2QUMzMERDOTdD",
+"snippet": {
+"publishedAt": "2023-06-12T06:53:32Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Ma Barker (3x165)",
+"description": "Recuperem una bio pendent de la temporada anterior i, ja de pas, toquem el tema “atracadors i gàngsters americans dels anys 30”, que feia dies que no en fèiem cap. A més, aquesta història no tracta sobre el típic delinqüent que no sap on caure mort. La Ma Barker era una pobra dona que intentava portar una vida tan digna com fos possible; eren els seus fills, que eren unes perles! La seva mare (d’aquí ve el nom “Ma”) va decidir entrar a l'organització criminal i posar una mica d’ordre, perquè els seus nanos eren tan sapastres que ni atracar licoreries, sabien fer. \n\n#BúnquerCatRàdio\n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/9gVIjxXozxU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/9gVIjxXozxU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/9gVIjxXozxU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/9gVIjxXozxU/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/9gVIjxXozxU/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 5,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "9gVIjxXozxU"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "0C8uRaJjtOf_9k9EnzHeFN3G4wQ",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy41QTI4RTRDNjFGRjEzQkVC",
+"snippet": {
+"publishedAt": "2023-06-08T06:42:15Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Gabriel Malagrida (3x164)",
+"description": "Història moguda: comencem a Itàlia, marxem cap a la selva amazònica i acabem a Portugal! I allà la cosa encara serà més moguda, ja que el nostre protagonista viurà el terratrèmol de 1755 que va destruir Lisboa. Si no sabeu de què estem parlant, pareu aquí mateix i recupereu el capítol 152 d'aquesta temporada, on expliquem la història d'en Josep I de Portugal. Heu de saber que aquest episodi serà un duel entre en Gabriel de Malagrida i el marquès de Pombal, la fe contra la racionalitat.\n\n#BúnquerCatRàdio\n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/BkQkFv1xTbE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/BkQkFv1xTbE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/BkQkFv1xTbE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/BkQkFv1xTbE/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/BkQkFv1xTbE/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 6,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "BkQkFv1xTbE"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "jsGDd1AyRQBxaLO25V1GGVfGMgY",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy41RDk5QUEyN0Q3NUUwMzM1",
+"snippet": {
+"publishedAt": "2023-06-07T06:35:56Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Eugene O’Neill (3x163)",
+"description": "L'Eugene O'Neill tenia unes excuses infal·libles per no cuidar els fills i fotre el camp de casa una temporada. En una ocasió li va dir a la seva dona que marxava a Hondures a buscar or. Després de tants capítols, ja heu de saber reconèixer el patró: dramaturg = alcohòlic. Va arribar el moment que l'Eugene cuidava més els seus premis Pulitzer que no pas els seus fills.\n\n#BúnquerCatRàdio\n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/9lxm7uAiglY/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/9lxm7uAiglY/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/9lxm7uAiglY/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/9lxm7uAiglY/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/9lxm7uAiglY/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 7,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "9lxm7uAiglY"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "cUZOoF3c8lHgemTE5P5ewc5pAcw",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy45Rjk4MTYwNkM1RTk5QTNG",
+"snippet": {
+"publishedAt": "2023-06-06T06:35:48Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Sobhuza II (3x162)",
+"description": "Només cal que us diguem que aquesta història comença a Swazilàndia, on el consell d'ancians ha d’escollir qui serà el nou rei del país. Capítol de fantasia però, també, capítol d’identitat nacional. En Sobhuza va ser un rei just que va aconseguir independitzar-se dels colonitzadors britànics. També va transferir la meitat del PIB de Swazilàndia al seu compte corrent, però això no ve al cas. \n\n#BúnquerCatRàdio\n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/xOPRNQggtAs/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/xOPRNQggtAs/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/xOPRNQggtAs/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/xOPRNQggtAs/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/xOPRNQggtAs/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 8,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "xOPRNQggtAs"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "qtKYA_BWtifoYuAlTgxfiiof5Dk",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy42QjkxQzlGNTZERTRFODZE",
+"snippet": {
+"publishedAt": "2023-06-05T11:04:37Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Sally McNeil (3x161)",
+"description": "La cuidadora de nens assassina, l'infermer assassí, la culturista assassina... Us deveu pensar que tots els personatges són assassins! Doncs no, que no us enganyi el títol, la pobra Sally McNeil només en va matar un (i possiblement va ser en defensa pròpia). El més important d'aquesta història és saber detectar quins errors va cometre la Sally fins a acabar d’aquella manera. El primer error: casar-se amb un exmarine i culturista maltracador. Poseu-vos còmodes i gaudiu.\n\n#BúnquerCatRàdio\n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/zteaCH7HtNg/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/zteaCH7HtNg/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/zteaCH7HtNg/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/zteaCH7HtNg/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/zteaCH7HtNg/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 9,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "zteaCH7HtNg"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "T8gZeWoRN5fZ4FmwqCHfabwPZ30",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy45NkIxMzI2NUNCREVDNDg4",
+"snippet": {
+"publishedAt": "2023-06-01T07:04:08Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Oswald Spengler (3x160)",
+"description": "Aquestes biografies serveixen per saber que en el món hi ha gent com l'Oswald Spengler: gent sense ofici ni benefici que només es dedica a tocar allò que no sona amb teories i pensaments que no li importen a ningú. L'Oswald estava tan boig que ni en Hitler se'l prenia seriosament. Fixeu-vos-hi: era tan nazi que va ser nazi abans que els nazis existissin. L'Oswald va gastar molt de temps i molta tinta a desenvolupar teories conspiranoiques i antisemites en comptes de fer alguna cosa útil per a la societat.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/YKTXzyKF6mE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/YKTXzyKF6mE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/YKTXzyKF6mE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/YKTXzyKF6mE/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/YKTXzyKF6mE/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 10,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "YKTXzyKF6mE"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "5xxUcvcQZx0cgF4LNdISFNVsevI",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5EMTU2MDBCREJEMEM1MDA4",
+"snippet": {
+"publishedAt": "2023-05-31T07:32:30Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Jean-Michel Basquiat (3x159)",
+"description": "En Jean-Michel Basquiat potser és un altre tipus d'artista, però també podem dir que \"anava com Las Grecas\". Tal com feia la Tina Muñoz, en Jean-Michel també es bevia l'aigua dels cendrers i dormia en parades d'autobús. Encara més, ell i la Tina eren uns artistes com una casa de pagès, si ho pensem bé, tampoc eren tan diferents! Algú potser dirà que l'obra de Basquiat està sobrevalorada; també ho dèiem de la Tina i ja vau veure com cantava en Peyu. Des d’“El búnquer” reivindiquem que: Basquiat i Tina Muñoz, vides paral·leles.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/jU9Y7mBW4S8/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/jU9Y7mBW4S8/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/jU9Y7mBW4S8/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/jU9Y7mBW4S8/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/jU9Y7mBW4S8/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 11,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "jU9Y7mBW4S8"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "w2zV9MmFwEDwSP-pQ9sJ-zTWAvs",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5CMkMxNkZEQkI0M0U4RDVD",
+"snippet": {
+"publishedAt": "2023-05-30T06:47:52Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Amelia Dyer (3x158)",
+"description": "Aquesta biografia l'hem guardat per la tercera temporada perquè necessitàvem estar segurs que a hores d’ara, tots els nostres oients saben i entenen de què va el programa. Ho diem perquè la història d’aquesta dona teníem ganes de fer-la des de la primera temporada, però no ens hi vèiem amb cor. Ara sabem on és el límit i coneixem fins on podem collar-vos sense que us desmaieu anant en cotxe. Prepareu-vos perquè l'Amelia Dyer és un dels grans personatges victorians, que en va fer de molt grosses.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/qCPV07EMmRg/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/qCPV07EMmRg/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/qCPV07EMmRg/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/qCPV07EMmRg/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/qCPV07EMmRg/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 12,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "qCPV07EMmRg"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "wgf6hqFoEXobaWyIWNgAdPc_93s",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy4zOUZDNjQyRjc5RDhEQzU0",
+"snippet": {
+"publishedAt": "2023-05-29T07:02:29Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Tina Muñoz (3x157)",
+"description": "La Tina Muñoz era l'aneguet lleig de la família: una noia que sempre quedava a l'ombra de la seva talentosa germana. Amb els anys, però, la Tina es va espavilar i va aconseguir despertar la seva vena artística. Ella i la seva germana es van convertir en “Las Grecas”; aquell duet eren una màquina de fer diners. Evidentment, la Tina no va saber gestionar l'èxit i va acabar tirada pel carrer (vivint la vida hippy, segons ella).\n\n#BúnquerCatRàdio\n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/Hz6XglmmKzc/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/Hz6XglmmKzc/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/Hz6XglmmKzc/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/Hz6XglmmKzc/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/Hz6XglmmKzc/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 13,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "Hz6XglmmKzc"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "zPEdkIF-yAKtQGcX33PJ-WZTlBY",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5DQUFDNEM3QTc0MEFENDdC",
+"snippet": {
+"publishedAt": "2023-05-25T07:49:14Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Mariam Nabatanzi (3x156)",
+"description": "Avui heu de fer com en Jair: agafeu paper i boli (si sou una mica Monchito, també us farà falta una calculadora). En aquesta biografia no surten gaires noms, però sí que tindrem moltes dades que cal tenir apuntades. Si us diem que potser tindrem rècord de la temporada, ja sabeu cap on van els trets, oi? Ja anem encarant el final de la temporada i la cosa es posa emocionant. \n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/DR0C1VtwKro/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/DR0C1VtwKro/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/DR0C1VtwKro/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/DR0C1VtwKro/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/DR0C1VtwKro/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 14,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "DR0C1VtwKro"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "W7g67dXobE9KpxEJ41oPMkK0mG0",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy43NTE0OTlBQUVGODc5RUFE",
+"snippet": {
+"publishedAt": "2023-05-24T06:19:58Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Herminio de la gallina (3x155)",
+"description": "Un dels millors capítols de la temporada? Un dels més bojos, això segur. Els de YouTube ja fa estona que deveu estar al·lucinant amb la foto de la miniatura, però intenteu ignorar-la, no vulgueu treure'n l'entrellat. Seria bonic conservar una mica d'emoció fins al final. Per escoltar aquesta biografia us recomanem serenor i paciència, que la història s'ho val i ens ha costat molt posar-nos dins la ment del protagonista. També hem d’anar amb compte amb els sfx que aniran sonant.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/q8n-hHhrFS4/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/q8n-hHhrFS4/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/q8n-hHhrFS4/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/q8n-hHhrFS4/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/q8n-hHhrFS4/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 15,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "q8n-hHhrFS4"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "jkY9xHE2xsWelBcqK5WZhHXcjkg",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy40M0I1Q0JCOEFGRUQ4OTBF",
+"snippet": {
+"publishedAt": "2023-05-23T06:03:46Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Oda Nobunaga (3x154)",
+"description": "Una altra història de samurais! A la bio no ho comentem, però aquest paio era qui va apadrinar en Yasuke, el samurai negre que vam fer fa unes quantes setmanes. Però avui no parlem de samurais africans, sinó que us portem la història de l'Oda Nobunaga, un dels senyors de la guerra més famosos del Japó. Això que la biografia comença ben malament, ja que l'Oda era un nano malcriat que només volia viure amb l'esquena dreta i es negava a continuar el llinatge familiar.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/_KpnexapLwY/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/_KpnexapLwY/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/_KpnexapLwY/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/_KpnexapLwY/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/_KpnexapLwY/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 16,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "_KpnexapLwY"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "IQiawoZkfLxcv2wEljj8LLrgpwY",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy42RkU0NDE4REJCRTMxQURD",
+"snippet": {
+"publishedAt": "2023-05-22T06:24:08Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Tom Cruise (3x153)",
+"description": "Compte perquè avui no us portem el típic actor de Hollywood borratxo que es divorcia cada dos per tres. En Tom també es divorcia sovint, però ell ho fa per raons més profundes. En aquest capítol us descobrirem la cara fosca de Tom Cruise (agafeu-vos fort, perquè el nano està com un llum de ganxo). També us explicarem d'una vegada per totes què carai és això de la cienciologia, una secta més sinistra que la lògia de la pel·li “Eyes wide shut”.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/N8EmDueKP5o/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/N8EmDueKP5o/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/N8EmDueKP5o/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/N8EmDueKP5o/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/N8EmDueKP5o/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 17,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "N8EmDueKP5o"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "Pi107LBGiWXb3TJtFVm4NQpQITQ",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5GNEUxRjk0NTE2RDgyMDk3",
+"snippet": {
+"publishedAt": "2023-05-18T06:42:41Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Josep I de Portugal (3x152)",
+"description": "Ui! Quina saga més apassionant ens espera! A Portugal no li hem fet mai gaire cas, però també tenim històries molt interessants! Avui us portem la vida del rei Josep I de Portugal, un beneit acabat que, per sort, va saber delegar les seves responsabilitats en el marquès de Pombal. Aquest marquès no estava per hòsties i va saber gestionar l'imperi portuguès amb mà de ferro. Ja veureu quins mètodes feia servir.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/3BVbahlF6m4/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/3BVbahlF6m4/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/3BVbahlF6m4/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/3BVbahlF6m4/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/3BVbahlF6m4/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 18,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "3BVbahlF6m4"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "cjGd35R6WsWUbaUpTNmY--iUCSk",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy4wNzkyRUNFNTBEQkNEMjg0",
+"snippet": {
+"publishedAt": "2023-05-17T06:54:02Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Pichichi (3x151)",
+"description": "En Pichichi, un futbolista basc de metre cinquanta que jugava com els àngels! Era increïble! Heu de saber que el trofeu Pichichi, el que es dona al jugador que ha fet més gols de la temporada, és en honor del nostre amic. El problema era fora del camp, ja que el nano era un desastre: bevia, menjava com un porc i no s’entrenava ni que el matessin. A part que era més curt que una cua de conill, pobret. Sembla que estiguem parlant d’una estrella brasilera, però en Pichichi era un basc de cap a peus. \n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/TbzJp6pYPWQ/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/TbzJp6pYPWQ/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/TbzJp6pYPWQ/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/TbzJp6pYPWQ/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/TbzJp6pYPWQ/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 19,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "TbzJp6pYPWQ"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "CRR2MC-K9YjIhprPMBb8ULmUeFI",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5EM0QyMDFGNzQ4ODk3MjhB",
+"snippet": {
+"publishedAt": "2023-05-16T06:11:31Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Charles Cullen (3x150)",
+"description": "En Charles, pobret, va ser carn de búnquer des del principi. Potser és la biografia amb més ficades de cap a dins del vàter. A l'escola: cap al vàter. A casa: cap al vàter. La seva adolescència era tan fotuda que en Charles es va intentar suïcidar amb un joc de química que li va regalar la seva mare! sfx cop tensió. Després tenim un període en què sembla que millora una mica, però res: al cap d'uns anys, en Charles torna a experimentar amb la química. Aquest cop van llepar els pacients dels hospitals on treballava.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/lZ73p5CaIDs/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/lZ73p5CaIDs/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/lZ73p5CaIDs/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/lZ73p5CaIDs/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/lZ73p5CaIDs/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 20,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "lZ73p5CaIDs"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "m7OADFdFxyClFdTMutnskBRWjrs",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5FNUY3QTdGNUU3NjlGMjYz",
+"snippet": {
+"publishedAt": "2023-05-15T06:38:01Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Kurt Cobain (3x149)",
+"description": "Avui tindrem un capítol important. Si teniu canalla petita que ens segueix, feu que estiguin ben atents perquè avui coneixerem la història de Kurt Cobain, un ídol de diverses generacions de blancs de classe mitjana que s'identificaven amb uns problemes que no tenien. Si entreu dins de l’univers de Kurt Cobain, descobrireu una nova perspectiva de veure la vida. Ah, per cert, l'última part de la biografia no cal que l'escolteu. Ja sabreu quan parar la ràdio abans de l’escena final.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/T8NV8O76Zyg/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/T8NV8O76Zyg/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/T8NV8O76Zyg/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/T8NV8O76Zyg/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/T8NV8O76Zyg/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 21,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "T8NV8O76Zyg"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "IHHYVm3g4MwZna2J9P_-nbjteBc",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy41NEZEQTVEMjlBNUUyNTU2",
+"snippet": {
+"publishedAt": "2023-05-11T06:55:48Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Frank Cannonball Richards (3x148)",
+"description": "Recordeu aquell capítol dels Simpsons que en Homer es converteix en l'home canó i se'n va de gira amb els \"The Smashing Pumpkins\"? Doncs aquella història està basada en la vida d'en Frank Richards, el nostre protagonista d'avui, un paio que es fotia davant d'un canó d'un vaixell de guerra i parava el projectil amb la panxa. Un país tan genial com els Estats Units es van forjar amb gent com en Frank.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/PvoIuDrFNHM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/PvoIuDrFNHM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/PvoIuDrFNHM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/PvoIuDrFNHM/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/PvoIuDrFNHM/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 22,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "PvoIuDrFNHM"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "cGdABMKxwx_TEppd6ebteXahoKQ",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5BNzc4QTUwNTI1QjY5NjA5",
+"snippet": {
+"publishedAt": "2023-05-10T06:43:15Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Anneliese Michel (3x147)",
+"description": "Us advertim que aquesta història fa cagar de por, després no digueu que no us avisem! Avui tornem a tocar el tema dels exorcismes amb el cas real de la noia que va inspirar la pel·li \"L'exorcisme d'Emily Rose\". Val a dir que els guionistes hem intentat relatar la biografia des d'una basant mèdica, explicant que l'Anneliese no estava posseïda, sinó que patia d’esquizofrènia. Ara bé, sempre et queda aquell dubte raonable de si realment Hitler estava a dins d’aquesta noia. \n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/zlHfpfPeoPs/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/zlHfpfPeoPs/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/zlHfpfPeoPs/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/zlHfpfPeoPs/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/zlHfpfPeoPs/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 23,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "zlHfpfPeoPs"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "9dj8Y0X6ZOB32QTlM_Wrb3yRzL4",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy45QkJFMDA5MUJGODNGMkY2",
+"snippet": {
+"publishedAt": "2023-05-09T07:17:28Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Nelson Mandela (3x146)",
+"description": "Avui us parlarem de la vida d’aquest activista sud-africà que va lluitar per tenir una societat més justa. Això sí, quan va veure que les paraules es van quedar curtes i no servien per res, el nano va prendre la decisió de passar a la lluita armada i començar a fotre atemptats. Ah, carai! La violència sempre és l’última opció, però no deixa de ser-ne una. Per cert, també va ser president de l’ANC, aquesta dada és poc coneguda, però ja sabeu que aquí no se’ns escapa res. \n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/WkoyVz9OGKE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/WkoyVz9OGKE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/WkoyVz9OGKE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/WkoyVz9OGKE/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/WkoyVz9OGKE/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 24,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "WkoyVz9OGKE"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "PKR_n9whmCFUozKkFegSkAzAUmg",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy4yNTRCMzdFM0VDMDRDRkIz",
+"snippet": {
+"publishedAt": "2023-05-08T06:55:33Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Joseph Mortimer Granville (3x145)",
+"description": "L'era victoriana ens ha portat grans històries al llarg d'aquestes tres temporades. És una època on la tecnologia i el progrés topen amb els valors tradicionals i religiosos. Aquesta dicotomia és la que es trobava el nostre protagonista d'avui: en Joseph Mortimer. Aquest metge va desenvolupar un invent per descontracturar l'esquena dels pacients, però els seus companys metges feien servir l'artefacte per donar plaer sexual a les dones i curar l'anomenada histèria femenina.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/dRAxH5xGLSU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/dRAxH5xGLSU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/dRAxH5xGLSU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/dRAxH5xGLSU/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/dRAxH5xGLSU/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 25,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "dRAxH5xGLSU"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "25aUEzfprDnlw1CEp8dQ0vGrUzo",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy42NzgyQkFFNEUyOTZDMkE4",
+"snippet": {
+"publishedAt": "2023-05-04T05:56:47Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Steve Jobs (3x144)",
+"description": "Avui tenim el boig de les pometes! Heu enganxat el doble sentit o què? Que us ho hem d'explicar tot, hòstia! L'Steve Jobs era un paio que va fer un any sabàtic a l'Índia i va tornar amb una nova perspectiva de la vida: només menjava fruita crua i certes hortalisses. Pomes, peres, plàtans, apis, cogombres... Tot fotut a la liquadora i au! 0% de proteïna i la insulina pels núvols! Good Job, Steve! Avui coneixerem el geni que hi havia rere els iPhones i els iPads, a veure si els foteu al riu d'una vegada per totes. Sí, els guionistes del búnquer som una mica anti-Apple. Se'ns nota?\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/W8qlr_IVWKE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/W8qlr_IVWKE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/W8qlr_IVWKE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/W8qlr_IVWKE/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/W8qlr_IVWKE/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 26,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "W8qlr_IVWKE"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "7ZD8HymlvqF7Sdhv7niNnTyNTNQ",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5DMDA1QTU3NjFEOEJENTND",
+"snippet": {
+"publishedAt": "2023-05-03T07:42:31Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Leonid Rogozov (3x143)",
+"description": "Ja ho diem al principi de la història: abrigueu-vos bé perquè avui començarem a la Sibèria i anirem a petar a l’Antàrtida. El nostre protagonista és en Leonid, un jove que va fotre el camp del seu poble de mala mort per anar a Sant Petersburg i estudiar medicina. El paio va tenir l’honor de formar part d’una expedició soviètica per anar a l’Antàrtida. Ell era el cirurgià del grup. Durant l’expedició, va tenir la responsabilitat de cuidar els seus companys, però… a ell, qui el cuidava? Prepareu-vos per una barreja entre “Alien” i “The Thing”.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/ByDZ5zjXToo/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/ByDZ5zjXToo/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/ByDZ5zjXToo/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/ByDZ5zjXToo/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/ByDZ5zjXToo/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 27,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "ByDZ5zjXToo"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "eJri6XC3gWRNVLZlA4gBPvyc6Yc",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy4yODM3QTMyMkFFRDdEMzNE",
+"snippet": {
+"publishedAt": "2023-05-02T07:17:25Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Gustavo Adolfo Bécquer (3x142)",
+"description": "Un altre escriptor drogoaddicte, borratxo i faldiller? Doncs no! A en Gustavo Adolfo no li agradava tota aquesta parafernàlia bohèmia d’artistes de mala vida. Ell era un paio sensible, un enamoradís, un home que volia gaudir de les petites coses de la vida. Desitjava portar una existència humil i tenir una mort a l'altura de les circumstàncies. Ja li va anar bé morir de la manera en què ho va fer: en aquella època, si no tossies sang, no eres ningú.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/zxrZtPQJW28/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/zxrZtPQJW28/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/zxrZtPQJW28/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/zxrZtPQJW28/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/zxrZtPQJW28/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 28,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "zxrZtPQJW28"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "jLZqvZk130esx7c2AVTIK9nJ-iM",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy42REM4MTcyRDk5RkFGMDg5",
+"snippet": {
+"publishedAt": "2023-05-01T09:16:47Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Galvarino (3x141)",
+"description": "Si no coneixíeu aquesta història de fantasia, ja ens podeu anar donant les gràcies per haver-vos fet aquest descobriment tan meravellós. Avui us portem la biografia d’en Galvarino, un cap maputxe que es va enfrontar als colonitzadors espanyols. Els seus enemics el van capturar i, compte ara, li van tallar els dos braços amb una destral. És llavors quan en Galvarino es fa instal·lar dues fulles d’acer als avantbraços, com en Jack de “Mortal Kombat”.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/YS3rdjnbwNM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/YS3rdjnbwNM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/YS3rdjnbwNM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/YS3rdjnbwNM/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/YS3rdjnbwNM/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 29,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "YS3rdjnbwNM"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "6bkFJpDFtl_IQtAuBiU68XuhWu0",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy43QUY2NjhEOUFDMDE4Mjgx",
+"snippet": {
+"publishedAt": "2023-04-27T07:57:20Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Helen Keller (3x140)",
+"description": "Després d’una setmana amb tres biografies bastant desastroses, avui ho rematem amb la història de la Helen, una nena que per culpa d’una infecció es queda completament cega, sorda i muda quan només té un anyet. Què us sembla? És veritat que la història comença molt malament, però s’ha de dir que remunta quan la Helen rep l’ajuda que necessita i aprèn a comunicar-se tot i els seus impediments. Segurament és la història de superació més poderosa que hem tingut fins ara, i mira que fa uns dies vàrem fer Lance Armstrong! \n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/3T-ZAuBXxgY/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/3T-ZAuBXxgY/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/3T-ZAuBXxgY/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/3T-ZAuBXxgY/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/3T-ZAuBXxgY/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 30,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "3T-ZAuBXxgY"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "3xNVcTmJs1PQZQsSVBICbl3o0F0",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy41ODMwMTY5RkJCRDBDRDUy",
+"snippet": {
+"publishedAt": "2023-04-26T06:20:00Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Charles Dickens (3x139)",
+"description": "Feu un moment de silenci abans d’escoltar aquest capítol i reflexioneu sobre el nom de la biografia. Heu de saber que esteu davant del pare del búnquer, el guionista original, la persona que va escriure sobre nanos orfes de mirada pura i brillant que es trobaven perduts enmig de carrers bruts i atrafegats. sfx carruatge cavalls + sfx gent ciutat època victoriana. Charles Dickens, l’escriptor que ho va engegar tot. Veureu que en Charles tindrà uns embolics amb la seva dona i la seva cunyada, però tampoc n’heu de fer gaire cas. Ara sí, he de separar l’obra de l'artista. \n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/4XV__4iiDpc/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/4XV__4iiDpc/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/4XV__4iiDpc/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/4XV__4iiDpc/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/4XV__4iiDpc/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 31,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "4XV__4iiDpc"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "HFjex30zusR_Bba4A84NQ_Y3upY",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy4xMEVEM0Y0QUI2N0JEOTY5",
+"snippet": {
+"publishedAt": "2023-04-25T06:37:06Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Billy Milligan (3x138)",
+"description": "Avui tenim un capítol ben distret! De fet, tenim 24 històries dins d'una sola biografia! Resulta que en Billy Milligan era un nano que no girava gaire rodó i que va acabar tenint múltiples personalitats: 24 per ser exactes. El més sorprenent de tot és la quantitat de detalls que en Billy s'inventa per a cada personalitat. Per exemple, a dins del seu cap hi havia en Walter, un australià aficionat a la cacera; en Ragen, un comunista iugoslau, o l'Adalana, la violadora lesbiana (no, no ens ho estem inventant, és així de greu).\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/v4qb25ruGh0/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/v4qb25ruGh0/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/v4qb25ruGh0/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/v4qb25ruGh0/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/v4qb25ruGh0/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 32,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "v4qb25ruGh0"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "Typc88O-8dyPSucPje70PsopiIk",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5FMEIzOTY1MURERTA1RTMx",
+"snippet": {
+"publishedAt": "2023-04-24T07:10:02Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Wladyslaw Szpilman (3x137)",
+"description": "“El pianista”. No cal dir res més per saber de qui estem parlant, oi? Ja sabíeu que era una de les històries que tard o d'hora calia afrontar; per tant: calma, serenor i un paquet de mocadors al costat, per si de cas. En aquesta dramàtica història passegem per les runes del gueto de Varsòvia i viurem les peripècies que en Wladyslaw va haver de fer per sobreviure a la tirania nazi.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/W8-HCtZCIAA/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/W8-HCtZCIAA/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/W8-HCtZCIAA/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/W8-HCtZCIAA/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/W8-HCtZCIAA/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 33,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "W8-HCtZCIAA"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "Jd601RgdOVxdRBYa0aPTrQ4fwTU",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5CM0Q1QTM2Mjc0NzBGMDgw",
+"snippet": {
+"publishedAt": "2023-04-20T07:07:34Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: William Buckley (3x136)",
+"description": "Aquesta setmana haurem passat per Irlanda, per Escòcia i per Anglaterra! Només ens faltava una biografia de Gal·les! Però ja veureu que el bo d'en William de seguida es va fotre en problemes i el van enviar a Austràlia, un lloc on l'imperi britànic acumulava les seves deixalles. El pobre William, condemnat injustament per un delicte que no havia comès, no va dubtar ni un segon a escapar-se i començar una vida de fugitiu pels boscos australians. La fugida va anar bé, però el paio es va perdre i va acabar topant amb els aborígens de la regió.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/sDxmOA6f9Lg/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/sDxmOA6f9Lg/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/sDxmOA6f9Lg/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/sDxmOA6f9Lg/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/sDxmOA6f9Lg/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 34,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "sDxmOA6f9Lg"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "aaY7CRI0lvva5JjdmiwGgyM1tlc",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5EOTVDMUUxREU1QUE1RjE4",
+"snippet": {
+"publishedAt": "2023-04-19T06:20:36Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Arthur Guinness (3x135)",
+"description": "Avui descobrireu com n'era d'emprenedor Arthur Guinness, una persona que va fundar un imperi amb les seves pròpies mans. Ja podeu agafar paper i boli, perquè avui aprendrem a ser empresaris d'èxit. Una de les seves claus? Doncs no distreure's amb les atraccions carnals, posar tots els esforços en el negoci. Després, quan ja tens els calés fets, ja pot tenir tantes canalles com vulguis. Ah, per cert, us confirmem que la cervesa Guinness és responsable del llibre dels rècords, però no té res a veure amb la història d'avui.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/4XSGKDt3kuc/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/4XSGKDt3kuc/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/4XSGKDt3kuc/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/4XSGKDt3kuc/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/4XSGKDt3kuc/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 35,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "4XSGKDt3kuc"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "RGQfiWbpEOsp4jst7uGTWGdxVos",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy4wMUM3OUNGRDRERUUwQzdC",
+"snippet": {
+"publishedAt": "2023-04-18T06:58:52Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: José María Jarabo (3x134)",
+"description": "Avui ens ho passarem bé! Almenys fins a la pàgina 12 de guió. La història serà entretinguda perquè en José María Jarabo era un amant de la gresca que només feia que fotre's en problemes. La història comença a Madrid, just abans de la Guerra Civil, però no us preocupeu que de seguida anirem cap a Puerto Rico i també cap als Estats Units. En José María era tan peculiar que a Nova York el van fotre a la presó per traficar amb fotos pornogràfiques, i, un cop tancat a la garjola, va començar a practicar karate; imagineu-vos el personatge!\n\n#BúnquerCatRàdio\n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/yjSJ7ll7mrA/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/yjSJ7ll7mrA/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/yjSJ7ll7mrA/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/yjSJ7ll7mrA/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/yjSJ7ll7mrA/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 36,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "yjSJ7ll7mrA"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "6NbRomlOXTF2JccIgMPxcODeWC0",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy4zQkFFRDQ1REVCQjgwM0Ux",
+"snippet": {
+"publishedAt": "2023-04-17T06:56:43Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Rob Roy MacGregor (3x133)",
+"description": "Rob Roy, l'heroi escocès? Ja pot comptar! No us espereu ni història tan èpica com la d’en William Wallace, ni finals tan dramàtics al crit de \"FREEDOOOM\". En Rob Roy era un simple granger que volia portar una vida tranquil·la, el problema és que es va emmerdar demanant un préstec que després no podia pagar. Avui no sonaran melodies prohibides tocades amb gaites prohibides, ni tindrem poetes guerrers; penseu que en Rob Roy es presentava tard a les batalles i aprofitava per saquejar els cadàvers, aquest serà el protagonista d’aquest capítol. \n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/4y7K4r7lepU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/4y7K4r7lepU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/4y7K4r7lepU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/4y7K4r7lepU/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/4y7K4r7lepU/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 37,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "4y7K4r7lepU"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "vGt3jWUeS5qtvAAw8NvZNpq2e5c",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy4yMkNFMjVBNzFDQTZBM0E4",
+"snippet": {
+"publishedAt": "2023-04-13T06:42:00Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Mirin Dajo (3x132)",
+"description": "Portem una temporadeta que no ens traiem les aparicions de sobre! Avui no tindrem cap matrimoni místic amb Crist, però gairebé! I és que avui us portem la història d'un nano neerlandès que va estudiar per ser dissenyador gràfic i va acabar treballant de faquir a les tavernes de mala mort d'Amsterdam. Ja se sap que un estudia el que vol i treballa del que pot! A sobre, l'Arnold tenia aparicions de familiars que havien mort i que li havien de donar un missatge.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/thRXURpwoBY/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/thRXURpwoBY/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/thRXURpwoBY/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/thRXURpwoBY/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/thRXURpwoBY/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 38,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "thRXURpwoBY"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "kYNpi1EcTMYZ0vQenWcS2xgUzns",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy43MkE0RTQyNUQ5RTk1NTg0",
+"snippet": {
+"publishedAt": "2023-04-12T06:30:17Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Hachiko (3x131)",
+"description": "Avui sí! Avui prepareu els mocadors perquè aquest capítol serà una vall de llàgrimes. Us portem la veritable història d'en Hachiko, el gosset de la pel·lícula d'en Richard Gere. Penseu que els nostres guionistes, que han escrit mil i una biografies d'horror i de misèria, no van poder evitar expressar un \"pobreeet\" quan van acabar d'escriure aquesta història. Penseu que aquesta mostra d'humanitat per part dels psicòpates dels nostres guionistes és una cosa excepcional! Imagineu-vos com n’és de lacrimògena. \n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/k-t_UGH9CUI/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/k-t_UGH9CUI/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/k-t_UGH9CUI/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/k-t_UGH9CUI/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/k-t_UGH9CUI/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 39,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "k-t_UGH9CUI"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "CpTQ42ZP2zh2Tt2adad4vPv520k",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5BMDcyOTk4NUIwNjkzRkY4",
+"snippet": {
+"publishedAt": "2023-04-11T06:47:56Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Lance Armstrong (3x130)",
+"description": "Químio i bicicletes! D'això anirà el programa d'avui. Bé, els anabolitzants i les transfusions de sang també tindran el seu pes. Avui us parlem de l'ascens i la caiguda d'un home que es va convertir en un ídol per a tota una generació, una persona en la qual emmirallar-se, fins que es va acabar trencant. Penseu que estem escrivint aquest text amb la llagrimeta als ulls. #LiveStrong\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/9rwgiB-7NbM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/9rwgiB-7NbM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/9rwgiB-7NbM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/9rwgiB-7NbM/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/9rwgiB-7NbM/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 40,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "9rwgiB-7NbM"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "KdsHLTSbz_n-ZxnChX0e6A-KNS4",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5DQkM5MzAzQ0QzNUJBMDlB",
+"snippet": {
+"publishedAt": "2023-04-10T09:11:56Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Paracels (3x129)",
+"description": "Si en Lord Byron hagués tingut un metge com en Paracels, no hauria mort d'aquella manera tan desastrosa. Heu de saber que en Paracels va ser una autèntica revolució en el món de la medicina, però, noi, hi havia metges que els costava canviar de mètodes. El tema de les sangoneres encara va durar anys! Ves que no tinguessin alguna comissió amb el comerciant que les venia! En fi, que en Paracels va ser un metge de cap a peus que va ser injustament criticat pels seus col·legues. Això sí, també era un amant de la gresca i un borratxo, una cosa no treu l'altra.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/zxPoDqH-o-g/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/zxPoDqH-o-g/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/zxPoDqH-o-g/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/zxPoDqH-o-g/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/zxPoDqH-o-g/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 41,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "zxPoDqH-o-g"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "YZowgdo7Y8rPHtZvhYetoR2nRyc",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5CNTY2N0VCNUMyNjlFN0U5",
+"snippet": {
+"publishedAt": "2023-04-06T06:32:16Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Marvin Gaye (3x128)",
+"description": "Ai! Quina història tan desgraciada! Aquesta sí que és la típica biografia de crooner americà: infància complicada, talent, gresques continuades, número u al billboard, embolics de faldilles, drogues… Fins aquí tot bé, el de sempre. El problema és el final, la mort d’en Marvin Gaye, una cosa tan surrealista que ens hem quedat glaçats! I mira que n’hem relatat, de morts, aquí al búnquer! Només us diem una cosa: compte amb el pare d’en Marvin: el senyor apareix poc, però és un dels protagonistes de la història. \n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/_Az4qhujkZM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/_Az4qhujkZM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/_Az4qhujkZM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/_Az4qhujkZM/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/_Az4qhujkZM/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 42,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "_Az4qhujkZM"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "gL8uI0gRjAPhx4Bb7EVgMOw9FSY",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy45NEVEOEUyMjAyOUMzQjVG",
+"snippet": {
+"publishedAt": "2023-04-05T06:41:54Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Ferdinand Cheval (3x127)",
+"description": "Avui us portem una història simpàtica i agradable. De tant en tant convé descansar d'assassinats i de misèria, que després de tres temporades escoltant desgràcies acabareu tan grillats com els nostres guionistes. Avui us volem explicar la història d'un carter francès que un dia va ensopegar amb una pedra i es va fotre daltabaix d'un marge. No sabem si va ser el cop al cap o si li va venir la inspiració divina, però la qüestió és que en Ferdinand va decidir emportar-se aquella pedra a casa. De fet, cada dia que tornava de treballar, arribava a casa amb una nova pedra. Al final, tenia tants rocs darrere el seu pati que va decidir construir un palau. \n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/4h6j8ypqRGw/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/4h6j8ypqRGw/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/4h6j8ypqRGw/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/4h6j8ypqRGw/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/4h6j8ypqRGw/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 43,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "4h6j8ypqRGw"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "UBAnEix7g4lR3AU_1iMxmbAdT30",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5ERkFEMTk1N0JBNjU0MzA4",
+"snippet": {
+"publishedAt": "2023-04-04T06:36:34Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: William Seabrook (3x126)",
+"description": "\"Ui! Aquest patró de biografia ja me'l conec! És la típica història del periodista borratxo americà que se'n va a la guerra, que té moltes amants i que es mor mentre escriu el seu últim llibre\". Doncs no! Després de tantes biografies, encara tenim la capacitat de sorprendre-us! Avui tindrem tribus salvatges, ingesta de carn humana, vudú, zombis i rituals haitians. En William Seabrook era un intrèpid explorador que es va obsessionar amb Haití i tot el misteri esotèric que envolta aquesta illa del Carib.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/3Va4Y9ExYuU/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/3Va4Y9ExYuU/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/3Va4Y9ExYuU/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/3Va4Y9ExYuU/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/3Va4Y9ExYuU/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 44,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "3Va4Y9ExYuU"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "VRN2NQzaFZKWNgxxnTtUXJnc5YQ",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy4zN0ZDMTNFQzVFRDdDMjBF",
+"snippet": {
+"publishedAt": "2023-04-03T20:27:51Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "El BÚNQUER: Ada Byron (3x125)",
+"description": "La història d'en Lord Byron us va marcar? Doncs imagineu-vos com va quedar de traumatitzada la seva filla. Sí, avui repassarem la vida de l'Ada, l'única filla legítima que va tenir el penques d'en George. Els gens Byron corrien per les venes de la pobra nena: salut delicada i idees estrambòtiques, com la de voler saltar del terrat amb una màquina voladora. Sortosament, la mare de l'Ada va redreçar-la i la va ajudar a convertir-se en una matemàtica excel·lent. Ja se sap que els Byron els has de lligar curt. \n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/6xD1XTCKSb0/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/6xD1XTCKSb0/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/6xD1XTCKSb0/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/6xD1XTCKSb0/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/6xD1XTCKSb0/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 45,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "6xD1XTCKSb0"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "mQY6O0q6MxGqQseSOxEk98aJAXQ",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5BRDUxOTI4N0ZEREU3MEM1",
+"snippet": {
+"publishedAt": "2023-03-30T06:55:37Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Magdalena Castells Pons (3x124)",
+"description": "Quina biografia tan entretinguda que tenim avui! Això serà un anar i venir de clientes que buscaven els remeis miraculosos de la Magdalena. Resulta que la nostra protagonista era una curandera de Mallorca que tenia una pols màgica que era fantàstica per solucionar problemes matrimonials, sobretot per si et volies quedar viuda. Us encantarà aquesta història d’emprenedoria i de superació.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/1R8VmpLD8MM/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/1R8VmpLD8MM/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/1R8VmpLD8MM/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/1R8VmpLD8MM/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/1R8VmpLD8MM/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 46,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "1R8VmpLD8MM"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "UtS9Q0ho84z59bvQ-mZWoiCKxSo",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy45QTdFNDExQzQ3NzQyOTlC",
+"snippet": {
+"publishedAt": "2023-03-29T06:39:57Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Dennis Rodman (3x123)",
+"description": "Tots sabeu qui és en Michael Jordan, oi? I també sabeu que va ser el millor dels millors i que va portar els Chicago Bulls fins dalt de tot. Doncs bé, val a dir que tres dels sis anells que va guanyar, ho va fer acompanyat de dues bèsties com en Dennis Rodman i l'Scottie Pippen. Precisament, avui volem repassar la biografia d'en Dennis Rodman i totes les seves bestieses i genialitats dins i fora de la pista. Des de fotre-li un cop de cap a un àrbitre, saltar-se un partit transcendental per anar a fer lluita lliure amb en Hulk Hogan o anar en missió diplomàtica a Corea del Nord. \n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/B7vNAFliO4E/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/B7vNAFliO4E/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/B7vNAFliO4E/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/B7vNAFliO4E/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/B7vNAFliO4E/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 47,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "B7vNAFliO4E"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "z7OVdZmYnOXvAccDkkm9QewWPXY",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy5DRjVDNEFDNTg5NUQ1RkNG",
+"snippet": {
+"publishedAt": "2023-03-28T06:43:51Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Coco Chanel (3x122)",
+"description": "Coco Chanel i Gérard Depardieu, dels inicis més desastrosos de la temporada! La Coco Chanel, abans de ser la dissenyadora de moda més influent de tots els temps, va viure una infantesa d'allò més dura i es va haver de buscar la vida fent d'artista de varietats en cabarets de mala mort. Ella volia ser cantant, però tenia una veu tan desastrosa que ningú la contractava; els dos paquets de tabac que es fumava cada dia tampoc van ajudar gaire a millorar el seu cant. Després els nazis envaeixen França i tot millora, ja que ella no tenia cap mena de problema a col·laborar-hi.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/HRbSan24q3I/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/HRbSan24q3I/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/HRbSan24q3I/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/HRbSan24q3I/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/HRbSan24q3I/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 48,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "HRbSan24q3I"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+},
+{
+"kind": "youtube#playlistItem",
+"etag": "9oOHyJ8LqQ6mqDesxrEyYdEIokw",
+"id": "UEw1SHdzSGJvaUU5bmdvemdRMVprQjlYNGduRXdVY0xSMy43MEQ5RjM3MDJBRjE3NDNB",
+"snippet": {
+"publishedAt": "2023-03-27T08:17:07Z",
+"channelId": "UCfwf5LTzLq88guMvu3VkaUQ",
+"title": "EL BÚNQUER: Evan O’Neill Kane (3x121)",
+"description": "L'Evan O'Neill era un nano de casa bona, penseu que la seva mare va crear l'hospital situat al poble que va fundar el seu pare. Per sort, el nano va sortir espavilat i va saber aprofitar la posició privilegiada de la família. El nostre amic combinava la feina a l'hospital de la seva mare amb la feina de 'cirurgià del ferrocarril', un concepte que si no sabeu què és, us encantarà. El dilema de la biografia arriba quan l'Evan s'obsessiona amb la idea d’operar-se a si mateix, el beneit deia que era tan bon cirurgià que va voler autopracticar-se una extirpació d'apèndix.\n\n#BúnquerCatRàdio \n\nInstagram del programa: https://www.instagram.com/elbunquercatradio/\n\nSubscriu-te al canal oficial de Catalunya Ràdio a YouTube: https://bit.ly/2RLKl6r\n\nTV3 a YouTube: https://bit.ly/2WFU15Y\nFacebook: https://es-es.facebook.com/catradio\nTwitter: https://twitter.com/catalunyaradio\nInstagram: https://www.instagram.com/catalunyaradio\nWeb: https://www.ccma.cat/catradio",
+"thumbnails": {
+"default": {
+"url": "https://i.ytimg.com/vi/lQN2pF-GjVE/default.jpg",
+"width": 120,
+"height": 90
+},
+"medium": {
+"url": "https://i.ytimg.com/vi/lQN2pF-GjVE/mqdefault.jpg",
+"width": 320,
+"height": 180
+},
+"high": {
+"url": "https://i.ytimg.com/vi/lQN2pF-GjVE/hqdefault.jpg",
+"width": 480,
+"height": 360
+},
+"standard": {
+"url": "https://i.ytimg.com/vi/lQN2pF-GjVE/sddefault.jpg",
+"width": 640,
+"height": 480
+},
+"maxres": {
+"url": "https://i.ytimg.com/vi/lQN2pF-GjVE/maxresdefault.jpg",
+"width": 1280,
+"height": 720
+}
+},
+"channelTitle": "Catalunya Ràdio",
+"playlistId": "PL5HwsHboiE9ngozgQ1ZkB9X4gnEwUcLR3",
+"position": 49,
+"resourceId": {
+"kind": "youtube#video",
+"videoId": "lQN2pF-GjVE"
+},
+"videoOwnerChannelTitle": "Catalunya Ràdio",
+"videoOwnerChannelId": "UCfwf5LTzLq88guMvu3VkaUQ"
+}
+}
+],
+"pageInfo": {
+"totalResults": 538,
+"resultsPerPage": 50
+}
+}
