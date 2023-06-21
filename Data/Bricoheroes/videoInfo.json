@@ -32,7 +32,9 @@
 }
 },
 "videoDate": "2022-03-08T17:43:55Z",
-"videoLink": "https://www.youtube.com/watch?v=3mrvMdyZdfc"
+"videoLink": "https://www.youtube.com/watch?v=3mrvMdyZdfc",
+"season": 4,
+"episode": 0
 },
 {
 "videoId": "4HWvuSfmGOQ",
@@ -66,7 +68,9 @@
 }
 },
 "videoDate": "2022-03-04T13:57:54Z",
-"videoLink": "https://www.youtube.com/watch?v=4HWvuSfmGOQ"
+"videoLink": "https://www.youtube.com/watch?v=4HWvuSfmGOQ",
+"season": 3,
+"episode": 20
 },
 {
 "videoId": "D62E-sW5mKA",
@@ -100,7 +104,9 @@
 }
 },
 "videoDate": "2022-02-25T12:24:42Z",
-"videoLink": "https://www.youtube.com/watch?v=D62E-sW5mKA"
+"videoLink": "https://www.youtube.com/watch?v=D62E-sW5mKA",
+"season": 3,
+"episode": 19
 },
 {
 "videoId": "rjJE2UpuYws",
@@ -134,7 +140,9 @@
 }
 },
 "videoDate": "2022-02-18T18:00:45Z",
-"videoLink": "https://www.youtube.com/watch?v=rjJE2UpuYws"
+"videoLink": "https://www.youtube.com/watch?v=rjJE2UpuYws",
+"season": 3,
+"episode": 18
 },
 {
 "videoId": "K8QaACxzhBk",
@@ -168,7 +176,9 @@
 }
 },
 "videoDate": "2022-02-11T11:46:35Z",
-"videoLink": "https://www.youtube.com/watch?v=K8QaACxzhBk"
+"videoLink": "https://www.youtube.com/watch?v=K8QaACxzhBk",
+"season": 3,
+"episode": 17
 },
 {
 "videoId": "v8-cw39y5ek",
@@ -202,7 +212,9 @@
 }
 },
 "videoDate": "2022-02-04T15:52:23Z",
-"videoLink": "https://www.youtube.com/watch?v=v8-cw39y5ek"
+"videoLink": "https://www.youtube.com/watch?v=v8-cw39y5ek",
+"season": 3,
+"episode": 16
 },
 {
 "videoId": "rAPgTU55jIg",
@@ -236,7 +248,9 @@
 }
 },
 "videoDate": "2022-01-28T08:42:41Z",
-"videoLink": "https://www.youtube.com/watch?v=rAPgTU55jIg"
+"videoLink": "https://www.youtube.com/watch?v=rAPgTU55jIg",
+"season": 3,
+"episode": 15
 },
 {
 "videoId": "ujOQqJbmdlg",
@@ -270,7 +284,9 @@
 }
 },
 "videoDate": "2022-01-21T12:11:09Z",
-"videoLink": "https://www.youtube.com/watch?v=ujOQqJbmdlg"
+"videoLink": "https://www.youtube.com/watch?v=ujOQqJbmdlg",
+"season": 3,
+"episode": 14
 },
 {
 "videoId": "oqLqAi-hxO0",
@@ -304,7 +320,9 @@
 }
 },
 "videoDate": "2022-01-16T21:17:19Z",
-"videoLink": "https://www.youtube.com/watch?v=oqLqAi-hxO0"
+"videoLink": "https://www.youtube.com/watch?v=oqLqAi-hxO0",
+"season": 3,
+"episode": 13
 },
 {
 "videoId": "5K5OW4SCxdM",
@@ -338,7 +356,9 @@
 }
 },
 "videoDate": "2022-01-05T14:58:47Z",
-"videoLink": "https://www.youtube.com/watch?v=5K5OW4SCxdM"
+"videoLink": "https://www.youtube.com/watch?v=5K5OW4SCxdM",
+"season": 3,
+"episode": 12
 },
 {
 "videoId": "HTBpcO1eYdY",
@@ -372,7 +392,9 @@
 }
 },
 "videoDate": "2021-12-29T12:00:27Z",
-"videoLink": "https://www.youtube.com/watch?v=HTBpcO1eYdY"
+"videoLink": "https://www.youtube.com/watch?v=HTBpcO1eYdY",
+"season": 3,
+"episode": 11
 },
 {
 "videoId": "O2q2_H6pEYk",
@@ -406,7 +428,9 @@
 }
 },
 "videoDate": "2021-12-22T08:44:22Z",
-"videoLink": "https://www.youtube.com/watch?v=O2q2_H6pEYk"
+"videoLink": "https://www.youtube.com/watch?v=O2q2_H6pEYk",
+"season": 3,
+"episode": 10
 },
 {
 "videoId": "qBZmLm33_58",
@@ -440,7 +464,9 @@
 }
 },
 "videoDate": "2021-12-17T14:09:28Z",
-"videoLink": "https://www.youtube.com/watch?v=qBZmLm33_58"
+"videoLink": "https://www.youtube.com/watch?v=qBZmLm33_58",
+"season": 3,
+"episode": 9
 },
 {
 "videoId": "F_gDEXcqIsE",
@@ -474,7 +500,9 @@
 }
 },
 "videoDate": "2021-12-10T12:24:03Z",
-"videoLink": "https://www.youtube.com/watch?v=F_gDEXcqIsE"
+"videoLink": "https://www.youtube.com/watch?v=F_gDEXcqIsE",
+"season": 3,
+"episode": 8
 },
 {
 "videoId": "9pw1zpRVFYc",
@@ -508,7 +536,9 @@
 }
 },
 "videoDate": "2021-12-02T12:08:50Z",
-"videoLink": "https://www.youtube.com/watch?v=9pw1zpRVFYc"
+"videoLink": "https://www.youtube.com/watch?v=9pw1zpRVFYc",
+"season": 3,
+"episode": 7
 },
 {
 "videoId": "mGgR9ah1oEQ",
@@ -542,7 +572,9 @@
 }
 },
 "videoDate": "2021-11-23T10:00:35Z",
-"videoLink": "https://www.youtube.com/watch?v=mGgR9ah1oEQ"
+"videoLink": "https://www.youtube.com/watch?v=mGgR9ah1oEQ",
+"season": 3,
+"episode": 6
 },
 {
 "videoId": "dZ9PAuPcTUw",
@@ -576,7 +608,9 @@
 }
 },
 "videoDate": "2021-11-18T14:44:03Z",
-"videoLink": "https://www.youtube.com/watch?v=dZ9PAuPcTUw"
+"videoLink": "https://www.youtube.com/watch?v=dZ9PAuPcTUw",
+"season": 3,
+"episode": 5
 },
 {
 "videoId": "shmDMnP6nlM",
@@ -610,7 +644,9 @@
 }
 },
 "videoDate": "2021-11-12T12:30:29Z",
-"videoLink": "https://www.youtube.com/watch?v=shmDMnP6nlM"
+"videoLink": "https://www.youtube.com/watch?v=shmDMnP6nlM",
+"season": 3,
+"episode": 4
 },
 {
 "videoId": "rCKMbKL4PWA",
@@ -644,7 +680,9 @@
 }
 },
 "videoDate": "2021-11-04T12:48:11Z",
-"videoLink": "https://www.youtube.com/watch?v=rCKMbKL4PWA"
+"videoLink": "https://www.youtube.com/watch?v=rCKMbKL4PWA",
+"season": 3,
+"episode": 3
 },
 {
 "videoId": "LazLk3N_h50",
@@ -678,7 +716,9 @@
 }
 },
 "videoDate": "2021-10-28T11:24:07Z",
-"videoLink": "https://www.youtube.com/watch?v=LazLk3N_h50"
+"videoLink": "https://www.youtube.com/watch?v=LazLk3N_h50",
+"season": 3,
+"episode": 2
 },
 {
 "videoId": "-xvYbjf4cec",
@@ -712,7 +752,9 @@
 }
 },
 "videoDate": "2021-10-22T09:59:27Z",
-"videoLink": "https://www.youtube.com/watch?v=-xvYbjf4cec"
+"videoLink": "https://www.youtube.com/watch?v=-xvYbjf4cec",
+"season": 3,
+"episode": 1
 },
 {
 "videoId": "axctgKaZOfM",
@@ -746,7 +788,9 @@
 }
 },
 "videoDate": "2021-10-21T12:04:35Z",
-"videoLink": "https://www.youtube.com/watch?v=axctgKaZOfM"
+"videoLink": "https://www.youtube.com/watch?v=axctgKaZOfM",
+"season": 4,
+"episode": 0
 },
 {
 "videoId": "G-OAlJJLS-Q",
@@ -780,7 +824,9 @@
 }
 },
 "videoDate": "2021-03-04T16:34:49Z",
-"videoLink": "https://www.youtube.com/watch?v=G-OAlJJLS-Q"
+"videoLink": "https://www.youtube.com/watch?v=G-OAlJJLS-Q",
+"season": 2,
+"episode": 20
 },
 {
 "videoId": "sOjt1Aj7-oo",
@@ -814,7 +860,9 @@
 }
 },
 "videoDate": "2021-02-28T08:43:54Z",
-"videoLink": "https://www.youtube.com/watch?v=sOjt1Aj7-oo"
+"videoLink": "https://www.youtube.com/watch?v=sOjt1Aj7-oo",
+"season": 2,
+"episode": 19
 },
 {
 "videoId": "OYipTcV2O0E",
@@ -848,7 +896,9 @@
 }
 },
 "videoDate": "2021-02-15T12:59:52Z",
-"videoLink": "https://www.youtube.com/watch?v=OYipTcV2O0E"
+"videoLink": "https://www.youtube.com/watch?v=OYipTcV2O0E",
+"season": 2,
+"episode": 18
 },
 {
 "videoId": "vgpvwNOxDO8",
@@ -882,7 +932,9 @@
 }
 },
 "videoDate": "2021-02-08T10:56:42Z",
-"videoLink": "https://www.youtube.com/watch?v=vgpvwNOxDO8"
+"videoLink": "https://www.youtube.com/watch?v=vgpvwNOxDO8",
+"season": 2,
+"episode": 17
 },
 {
 "videoId": "fTvLsEiwQdE",
@@ -916,7 +968,9 @@
 }
 },
 "videoDate": "2021-02-07T20:11:16Z",
-"videoLink": "https://www.youtube.com/watch?v=fTvLsEiwQdE"
+"videoLink": "https://www.youtube.com/watch?v=fTvLsEiwQdE",
+"season": 2,
+"episode": 16
 },
 {
 "videoId": "ppPY9dC9_o0",
@@ -950,7 +1004,9 @@
 }
 },
 "videoDate": "2021-01-27T12:22:21Z",
-"videoLink": "https://www.youtube.com/watch?v=ppPY9dC9_o0"
+"videoLink": "https://www.youtube.com/watch?v=ppPY9dC9_o0",
+"season": 2,
+"episode": 15
 },
 {
 "videoId": "nOuusszMZtI",
@@ -984,7 +1040,9 @@
 }
 },
 "videoDate": "2021-01-22T16:09:02Z",
-"videoLink": "https://www.youtube.com/watch?v=nOuusszMZtI"
+"videoLink": "https://www.youtube.com/watch?v=nOuusszMZtI",
+"season": 2,
+"episode": 14
 },
 {
 "videoId": "A57QW7uODe8",
@@ -1018,7 +1076,9 @@
 }
 },
 "videoDate": "2021-01-15T11:21:18Z",
-"videoLink": "https://www.youtube.com/watch?v=A57QW7uODe8"
+"videoLink": "https://www.youtube.com/watch?v=A57QW7uODe8",
+"season": 2,
+"episode": 13
 },
 {
 "videoId": "ykBErTSCAtg",
@@ -1052,7 +1112,9 @@
 }
 },
 "videoDate": "2021-01-08T08:02:24Z",
-"videoLink": "https://www.youtube.com/watch?v=ykBErTSCAtg"
+"videoLink": "https://www.youtube.com/watch?v=ykBErTSCAtg",
+"season": 2,
+"episode": 12
 },
 {
 "videoId": "2lrxlqllGPw",
@@ -1086,7 +1148,9 @@
 }
 },
 "videoDate": "2020-12-29T15:10:42Z",
-"videoLink": "https://www.youtube.com/watch?v=2lrxlqllGPw"
+"videoLink": "https://www.youtube.com/watch?v=2lrxlqllGPw",
+"season": 2,
+"episode": 11
 },
 {
 "videoId": "NB-KPALH2K8",
@@ -1120,7 +1184,9 @@
 }
 },
 "videoDate": "2020-12-24T12:16:00Z",
-"videoLink": "https://www.youtube.com/watch?v=NB-KPALH2K8"
+"videoLink": "https://www.youtube.com/watch?v=NB-KPALH2K8",
+"season": 2,
+"episode": 10
 },
 {
 "videoId": "PD36Z9D07lQ",
@@ -1154,7 +1220,9 @@
 }
 },
 "videoDate": "2020-12-24T11:35:27Z",
-"videoLink": "https://www.youtube.com/watch?v=PD36Z9D07lQ"
+"videoLink": "https://www.youtube.com/watch?v=PD36Z9D07lQ",
+"season": 4,
+"episode": 0
 },
 {
 "videoId": "NXqGS0n_5Fs",
@@ -1188,7 +1256,9 @@
 }
 },
 "videoDate": "2020-12-22T13:58:36Z",
-"videoLink": "https://www.youtube.com/watch?v=NXqGS0n_5Fs"
+"videoLink": "https://www.youtube.com/watch?v=NXqGS0n_5Fs",
+"season": 4,
+"episode": 0
 },
 {
 "videoId": "f3hI_z8bn-Q",
@@ -1222,7 +1292,9 @@
 }
 },
 "videoDate": "2020-12-18T09:32:15Z",
-"videoLink": "https://www.youtube.com/watch?v=f3hI_z8bn-Q"
+"videoLink": "https://www.youtube.com/watch?v=f3hI_z8bn-Q",
+"season": 2,
+"episode": 9
 },
 {
 "videoId": "ubtemKi0NDA",
@@ -1256,7 +1328,9 @@
 }
 },
 "videoDate": "2020-12-11T09:53:39Z",
-"videoLink": "https://www.youtube.com/watch?v=ubtemKi0NDA"
+"videoLink": "https://www.youtube.com/watch?v=ubtemKi0NDA",
+"season": 2,
+"episode": 8
 },
 {
 "videoId": "EdyPtw_eEnc",
@@ -1290,7 +1364,9 @@
 }
 },
 "videoDate": "2020-12-04T11:01:05Z",
-"videoLink": "https://www.youtube.com/watch?v=EdyPtw_eEnc"
+"videoLink": "https://www.youtube.com/watch?v=EdyPtw_eEnc",
+"season": 2,
+"episode": 7
 },
 {
 "videoId": "aL8DyI9qPHI",
@@ -1324,7 +1400,9 @@
 }
 },
 "videoDate": "2020-11-26T10:16:34Z",
-"videoLink": "https://www.youtube.com/watch?v=aL8DyI9qPHI"
+"videoLink": "https://www.youtube.com/watch?v=aL8DyI9qPHI",
+"season": 2,
+"episode": 6
 },
 {
 "videoId": "TzVXhHkPKek",
@@ -1358,7 +1436,9 @@
 }
 },
 "videoDate": "2020-11-19T05:25:47Z",
-"videoLink": "https://www.youtube.com/watch?v=TzVXhHkPKek"
+"videoLink": "https://www.youtube.com/watch?v=TzVXhHkPKek",
+"season": 2,
+"episode": 5
 },
 {
 "videoId": "wJDStK1rLmI",
@@ -1392,7 +1472,9 @@
 }
 },
 "videoDate": "2020-11-13T09:03:15Z",
-"videoLink": "https://www.youtube.com/watch?v=wJDStK1rLmI"
+"videoLink": "https://www.youtube.com/watch?v=wJDStK1rLmI",
+"season": 2,
+"episode": 4
 },
 {
 "videoId": "qOwdZIJZjK0",
@@ -1426,7 +1508,9 @@
 }
 },
 "videoDate": "2020-11-05T09:31:55Z",
-"videoLink": "https://www.youtube.com/watch?v=qOwdZIJZjK0"
+"videoLink": "https://www.youtube.com/watch?v=qOwdZIJZjK0",
+"season": 2,
+"episode": 3
 },
 {
 "videoId": "c5ohfCZqM_o",
@@ -1460,7 +1544,9 @@
 }
 },
 "videoDate": "2020-11-03T12:10:00Z",
-"videoLink": "https://www.youtube.com/watch?v=c5ohfCZqM_o"
+"videoLink": "https://www.youtube.com/watch?v=c5ohfCZqM_o",
+"season": 4,
+"episode": 0
 },
 {
 "videoId": "Gh6G-ch4gb4",
@@ -1494,7 +1580,9 @@
 }
 },
 "videoDate": "2020-10-30T09:18:39Z",
-"videoLink": "https://www.youtube.com/watch?v=Gh6G-ch4gb4"
+"videoLink": "https://www.youtube.com/watch?v=Gh6G-ch4gb4",
+"season": 2,
+"episode": 2
 },
 {
 "videoId": "8lBC8f04RuY",
@@ -1528,7 +1616,9 @@
 }
 },
 "videoDate": "2020-10-22T08:18:30Z",
-"videoLink": "https://www.youtube.com/watch?v=8lBC8f04RuY"
+"videoLink": "https://www.youtube.com/watch?v=8lBC8f04RuY",
+"season": 2,
+"episode": 1
 },
 {
 "videoId": "2T9t9RulHkA",
@@ -1562,7 +1652,9 @@
 }
 },
 "videoDate": "2020-10-23T16:19:10Z",
-"videoLink": "https://www.youtube.com/watch?v=2T9t9RulHkA"
+"videoLink": "https://www.youtube.com/watch?v=2T9t9RulHkA",
+"season": 4,
+"episode": 0
 },
 {
 "videoId": "Dq8UlNmeTsE",
@@ -1596,7 +1688,9 @@
 }
 },
 "videoDate": "2020-10-08T17:41:26Z",
-"videoLink": "https://www.youtube.com/watch?v=Dq8UlNmeTsE"
+"videoLink": "https://www.youtube.com/watch?v=Dq8UlNmeTsE",
+"season": 4,
+"episode": 0
 },
 {
 "videoId": "K33HElHNWYI",
@@ -1630,7 +1724,9 @@
 }
 },
 "videoDate": "2020-02-28T12:22:01Z",
-"videoLink": "https://www.youtube.com/watch?v=K33HElHNWYI"
+"videoLink": "https://www.youtube.com/watch?v=K33HElHNWYI",
+"season": 4,
+"episode": 0
 },
 {
 "videoId": "Udo0B4ifuek",
@@ -1664,7 +1760,9 @@
 }
 },
 "videoDate": "2020-03-20T13:06:36Z",
-"videoLink": "https://www.youtube.com/watch?v=Udo0B4ifuek"
+"videoLink": "https://www.youtube.com/watch?v=Udo0B4ifuek",
+"season": 4,
+"episode": 0
 },
 {
 "videoId": "XDtq-inNW30",
@@ -1698,7 +1796,9 @@
 }
 },
 "videoDate": "2020-02-13T13:48:39Z",
-"videoLink": "https://www.youtube.com/watch?v=XDtq-inNW30"
+"videoLink": "https://www.youtube.com/watch?v=XDtq-inNW30",
+"season": 1,
+"episode": 20
 },
 {
 "videoId": "NtPpi0UgkF0",
@@ -1732,7 +1832,9 @@
 }
 },
 "videoDate": "2020-02-06T13:39:42Z",
-"videoLink": "https://www.youtube.com/watch?v=NtPpi0UgkF0"
+"videoLink": "https://www.youtube.com/watch?v=NtPpi0UgkF0",
+"season": 1,
+"episode": 19
 },
 {
 "videoId": "POTNALqAjRQ",
@@ -1766,7 +1868,9 @@
 }
 },
 "videoDate": "2020-01-29T14:41:46Z",
-"videoLink": "https://www.youtube.com/watch?v=POTNALqAjRQ"
+"videoLink": "https://www.youtube.com/watch?v=POTNALqAjRQ",
+"season": 1,
+"episode": 18
 },
 {
 "videoId": "UFokER6K0rk",
@@ -1800,7 +1904,9 @@
 }
 },
 "videoDate": "2020-01-23T13:24:51Z",
-"videoLink": "https://www.youtube.com/watch?v=UFokER6K0rk"
+"videoLink": "https://www.youtube.com/watch?v=UFokER6K0rk",
+"season": 1,
+"episode": 17
 },
 {
 "videoId": "JuROKKb1MPA",
@@ -1834,7 +1940,9 @@
 }
 },
 "videoDate": "2020-01-15T17:45:51Z",
-"videoLink": "https://www.youtube.com/watch?v=JuROKKb1MPA"
+"videoLink": "https://www.youtube.com/watch?v=JuROKKb1MPA",
+"season": 1,
+"episode": 16
 },
 {
 "videoId": "VKqrC6r0WQ8",
@@ -1868,7 +1976,9 @@
 }
 },
 "videoDate": "2020-01-09T13:07:05Z",
-"videoLink": "https://www.youtube.com/watch?v=VKqrC6r0WQ8"
+"videoLink": "https://www.youtube.com/watch?v=VKqrC6r0WQ8",
+"season": 1,
+"episode": 15
 },
 {
 "videoId": "h3SNrZ7NYj0",
@@ -1902,7 +2012,9 @@
 }
 },
 "videoDate": "2019-12-18T12:44:18Z",
-"videoLink": "https://www.youtube.com/watch?v=h3SNrZ7NYj0"
+"videoLink": "https://www.youtube.com/watch?v=h3SNrZ7NYj0",
+"season": 1,
+"episode": 14
 },
 {
 "videoId": "0rX_zDqsqMw",
@@ -1936,7 +2048,9 @@
 }
 },
 "videoDate": "2019-12-16T00:45:22Z",
-"videoLink": "https://www.youtube.com/watch?v=0rX_zDqsqMw"
+"videoLink": "https://www.youtube.com/watch?v=0rX_zDqsqMw",
+"season": 4,
+"episode": 0
 },
 {
 "videoId": "l1OE-XOErgA",
@@ -1970,7 +2084,9 @@
 }
 },
 "videoDate": "2019-12-11T15:21:43Z",
-"videoLink": "https://www.youtube.com/watch?v=l1OE-XOErgA"
+"videoLink": "https://www.youtube.com/watch?v=l1OE-XOErgA",
+"season": 1,
+"episode": 13
 },
 {
 "videoId": "F1kk01hURBA",
@@ -2004,7 +2120,9 @@
 }
 },
 "videoDate": "2019-12-05T09:40:48Z",
-"videoLink": "https://www.youtube.com/watch?v=F1kk01hURBA"
+"videoLink": "https://www.youtube.com/watch?v=F1kk01hURBA",
+"season": 1,
+"episode": 12
 },
 {
 "videoId": "-fW4_BXxhvw",
@@ -2038,7 +2156,9 @@
 }
 },
 "videoDate": "2019-11-25T16:01:48Z",
-"videoLink": "https://www.youtube.com/watch?v=-fW4_BXxhvw"
+"videoLink": "https://www.youtube.com/watch?v=-fW4_BXxhvw",
+"season": 1,
+"episode": 11
 },
 {
 "videoId": "CNJtkryvpm0",
@@ -2072,7 +2192,9 @@
 }
 },
 "videoDate": "2019-11-29T13:29:28Z",
-"videoLink": "https://www.youtube.com/watch?v=CNJtkryvpm0"
+"videoLink": "https://www.youtube.com/watch?v=CNJtkryvpm0",
+"season": 4,
+"episode": 0
 },
 {
 "videoId": "RKc7bYO4BwQ",
@@ -2106,7 +2228,9 @@
 }
 },
 "videoDate": "2019-11-21T09:06:26Z",
-"videoLink": "https://www.youtube.com/watch?v=RKc7bYO4BwQ"
+"videoLink": "https://www.youtube.com/watch?v=RKc7bYO4BwQ",
+"season": 1,
+"episode": 10
 },
 {
 "videoId": "D1kEzHjdx_U",
@@ -2140,7 +2264,9 @@
 }
 },
 "videoDate": "2019-11-13T13:09:27Z",
-"videoLink": "https://www.youtube.com/watch?v=D1kEzHjdx_U"
+"videoLink": "https://www.youtube.com/watch?v=D1kEzHjdx_U",
+"season": 1,
+"episode": 9
 },
 {
 "videoId": "uDpkEt6G5B8",
@@ -2174,7 +2300,9 @@
 }
 },
 "videoDate": "2019-11-07T12:56:01Z",
-"videoLink": "https://www.youtube.com/watch?v=uDpkEt6G5B8"
+"videoLink": "https://www.youtube.com/watch?v=uDpkEt6G5B8",
+"season": 1,
+"episode": 8
 },
 {
 "videoId": "6rpcqYoF9OM",
@@ -2208,7 +2336,9 @@
 }
 },
 "videoDate": "2019-11-03T16:33:31Z",
-"videoLink": "https://www.youtube.com/watch?v=6rpcqYoF9OM"
+"videoLink": "https://www.youtube.com/watch?v=6rpcqYoF9OM",
+"season": 1,
+"episode": 7
 },
 {
 "videoId": "7FceWwAHRqw",
@@ -2242,7 +2372,9 @@
 }
 },
 "videoDate": "2019-10-27T09:08:02Z",
-"videoLink": "https://www.youtube.com/watch?v=7FceWwAHRqw"
+"videoLink": "https://www.youtube.com/watch?v=7FceWwAHRqw",
+"season": 4,
+"episode": 0
 },
 {
 "videoId": "9z-UrbipaEg",
@@ -2276,7 +2408,9 @@
 }
 },
 "videoDate": "2019-10-24T13:57:22Z",
-"videoLink": "https://www.youtube.com/watch?v=9z-UrbipaEg"
+"videoLink": "https://www.youtube.com/watch?v=9z-UrbipaEg",
+"season": 1,
+"episode": 6
 },
 {
 "videoId": "xF5VQkYMUiU",
@@ -2310,7 +2444,9 @@
 }
 },
 "videoDate": "2019-10-17T15:37:03Z",
-"videoLink": "https://www.youtube.com/watch?v=xF5VQkYMUiU"
+"videoLink": "https://www.youtube.com/watch?v=xF5VQkYMUiU",
+"season": 1,
+"episode": 5
 },
 {
 "videoId": "wbwcvV6XKzk",
@@ -2344,7 +2480,9 @@
 }
 },
 "videoDate": "2019-10-07T13:20:25Z",
-"videoLink": "https://www.youtube.com/watch?v=wbwcvV6XKzk"
+"videoLink": "https://www.youtube.com/watch?v=wbwcvV6XKzk",
+"season": 1,
+"episode": 4
 },
 {
 "videoId": "4vQC4SafD0g",
@@ -2378,7 +2516,9 @@
 }
 },
 "videoDate": "2019-10-03T16:15:35Z",
-"videoLink": "https://www.youtube.com/watch?v=4vQC4SafD0g"
+"videoLink": "https://www.youtube.com/watch?v=4vQC4SafD0g",
+"season": 1,
+"episode": 3
 },
 {
 "videoId": "3nf_TtfkeCY",
@@ -2412,7 +2552,9 @@
 }
 },
 "videoDate": "2019-09-27T10:48:00Z",
-"videoLink": "https://www.youtube.com/watch?v=3nf_TtfkeCY"
+"videoLink": "https://www.youtube.com/watch?v=3nf_TtfkeCY",
+"season": 1,
+"episode": 2
 },
 {
 "videoId": "zqAJ4jH6KuU",
@@ -2446,7 +2588,9 @@
 }
 },
 "videoDate": "2019-09-20T14:18:45Z",
-"videoLink": "https://www.youtube.com/watch?v=zqAJ4jH6KuU"
+"videoLink": "https://www.youtube.com/watch?v=zqAJ4jH6KuU",
+"season": 1,
+"episode": 1
 },
 {
 "videoId": "Ith-vZ6fTbI",
@@ -2480,7 +2624,9 @@
 }
 },
 "videoDate": "2019-09-13T14:34:26Z",
-"videoLink": "https://www.youtube.com/watch?v=Ith-vZ6fTbI"
+"videoLink": "https://www.youtube.com/watch?v=Ith-vZ6fTbI",
+"season": 4,
+"episode": 0
 }
 ],
 "videoCount": 73
